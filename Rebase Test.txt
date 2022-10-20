@@ -1,3 +1,4 @@
 Testing Rebase by VM
 Second Commit
 Third Commit
+Fourth Commit
